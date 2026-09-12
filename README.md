@@ -1,4 +1,5 @@
-****California Housing Price Prediction using Linear Regression****
+****California Housing Price Prediction using Linear Regression**
+**
 
 
 **Overview**
@@ -51,11 +52,12 @@ Latitude / Longitude — Location coordinates
 5. Evaluate using:
 
     Mean Squared Error (MSE)
+   
     R² Score
 
-6. Inspect model coefficients.
+7. Inspect model coefficients.
 
-7. Predict house value for new custom input.
+8. Predict house value for new custom input.
 
 
 **Evaluation Metrics**

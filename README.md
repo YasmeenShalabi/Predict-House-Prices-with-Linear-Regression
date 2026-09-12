@@ -1,5 +1,4 @@
-****California Housing Price Prediction using Linear Regression**
-**
+****California Housing Price Prediction using Linear Regression****
 
 
 **Overview**
